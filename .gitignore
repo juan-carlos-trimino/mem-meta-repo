@@ -1,0 +1,9 @@
+/IaC-cluster/
+/IaC-storage/
+/mem-gateway/
+/mem-history/
+/mem-metadata/
+/mem-rabbitmq/
+/mem-video-storage/
+/mem-video-streaming/
+/mem-video-upload/
