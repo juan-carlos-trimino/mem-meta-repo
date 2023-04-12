@@ -6,7 +6,6 @@
     "mem-history": "https://github.com/juan-carlos-trimino/mem-history.git",
     "mem-metadata": "https://github.com/juan-carlos-trimino/mem-metadata.git",
     "mem-mongodb": "https://github.com/juan-carlos-trimino/mem-mongodb.git",
-    "mem-rabbitmq": "https://github.com/juan-carlos-trimino/mem-rabbitmq.git",
     "mem-video-storage": "https://github.com/juan-carlos-trimino/mem-video-storage.git",
     "mem-video-streaming": "https://github.com/juan-carlos-trimino/mem-video-streaming.git",
     "mem-video-upload": "https://github.com/juan-carlos-trimino/mem-video-upload.git",
