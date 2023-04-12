@@ -4,7 +4,6 @@
 /mem-history/
 /mem-metadata/
 /mem-mongodb/
-/mem-rabbitmq/
 /mem-video-storage/
 /mem-video-streaming/
 /mem-video-upload/
