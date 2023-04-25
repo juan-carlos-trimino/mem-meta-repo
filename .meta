@@ -1,7 +1,7 @@
 {
   "projects": {
-    "IaC-cluster": "https://github.com/juan-carlos-trimino/IaC-cluster.git",
-    "IaC-storage": "https://github.com/juan-carlos-trimino/IaC-storage.git",
+    "mem-IaC-cluster": "https://github.com/juan-carlos-trimino/mem-IaC-cluster.git",
+    "mem-IaC-storage": "https://github.com/juan-carlos-trimino/mem-IaC-storage.git",
     "mem-gateway": "https://github.com/juan-carlos-trimino/mem-gateway.git",
     "mem-history": "https://github.com/juan-carlos-trimino/mem-history.git",
     "mem-metadata": "https://github.com/juan-carlos-trimino/mem-metadata.git",
