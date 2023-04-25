@@ -1,5 +1,5 @@
-/IaC-cluster/
-/IaC-storage/
+/mem-IaC-cluster/
+/mem-IaC-storage/
 /mem-gateway/
 /mem-history/
 /mem-metadata/
